@@ -1,0 +1,24 @@
+epoch 1, training...
+batch No.1, time cost : 5.46341609954834, loss is : 2.302557114482278
+batch No.2, time cost : 6.824216604232788, loss is : 2.302582121445941
+batch No.3, time cost : 5.50861930847168, loss is : 2.302438607799473
+batch No.4, time cost : 5.387552738189697, loss is : 2.3023923911384423
+batch No.5, time cost : 5.385044097900391, loss is : 2.3025463293944073
+batch No.6, time cost : 5.239836692810059, loss is : 2.3025410794277077
+batch No.7, time cost : 5.041815996170044, loss is : 2.302535680330741
+batch No.8, time cost : 5.026731967926025, loss is : 2.302564257355199
+batch No.9, time cost : 5.0668230056762695, loss is : 2.3025240342328432
+batch No.10, time cost : 5.0383336544036865, loss is : 2.3024668056379665
+batch No.11, time cost : 5.0782105922698975, loss is : 2.3023785235841445
+batch No.12, time cost : 5.0772175788879395, loss is : 2.3025860341993116
+batch No.13, time cost : 5.072430610656738, loss is : 2.3028368623193076
+batch No.14, time cost : 5.232948541641235, loss is : 2.3025590311562003
+epoch 1, training...
+batch No.1, time cost : 65.08877182006836, loss is : 2.302438464157473
+batch No.2, time cost : 59.471338987350464, loss is : 2.302647033830626
+epoch 1, training...
+batch No.1, time cost : 61.90099096298218, loss is : 2.302566751535247
+batch No.2, time cost : 60.73569345474243, loss is : 2.302648307852543
+batch No.3, time cost : 59.77158331871033, loss is : 2.30256390846117
+batch No.4, time cost : 61.51881146430969, loss is : 2.3025947950243535
+batch No.5, time cost : 62.85831809043884, loss is : 2.3026373516823977
